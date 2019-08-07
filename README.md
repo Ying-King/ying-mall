@@ -2,7 +2,14 @@
 
 > 在线商城WebApp
 
-## 功能模块
+## 1. 技术栈
+
+- 框架：Vue2.0
+- 网页布局：flex 结合 定位
+- 轮播插件：Swiper
+- 打包工具：webpack
+
+## 2. 功能模块
 
 - 首页：
   - 顶部Navbar组件
@@ -25,13 +32,10 @@
   - 历史搜索
   - 关键词搜索结果
 
-## 技术栈
+## 3. Demo在线演示地址
 
-- 框架：Vue2.0
-- 网页布局：flex 结合 定位
-- 轮播插件：Swiper
-- 打包工具：webpack
+[在线商城](https://ying-king.github.io/ying-mall/dist/#/)
 
-## demo地址
+## 4. 致谢
 
-[demo演示页面](https://ying-king.github.io/ying-mall/dist/#/)
+感谢关注，继续努力
